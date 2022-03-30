@@ -44,7 +44,7 @@ While the edits have improved the webpage, further work could be made to the web
 ## Webpage Images
 
 ### Unfiltered
-
-### Filtered
-
 ![Filtered](https://github.com/PatriciaCB1/UFOs/blob/main/Static/images/UFOs%20Unfiltered.png)
+### Filtered
+![Unfiltered](https://github.com/PatriciaCB1/UFOs/blob/main/Static/images/UFOs%20Filtered.png)
+
