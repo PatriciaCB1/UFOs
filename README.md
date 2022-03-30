@@ -47,4 +47,4 @@ While the edits have improved the webpage, further work could be made to the web
 
 ### Filtered
 
-![Image 1](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.08.02%20PM.png)
+![Filtered](https://github.com/PatriciaCB1/UFOs/blob/main/Static/images/UFOs%20Unfiltered.png)
