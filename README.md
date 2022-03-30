@@ -14,7 +14,7 @@ Having created a webpage for UFO sightings and a dynamic table that work as inte
 ## Results 
 
 ### To update the site and table the following steps were taken:
-- Removed the list "(<li></li>)" element that created the button
+- Removed the list element that created the button
 - Created four more list elements: city, state, country, and shape similar to the "Enter Date" list element. Ensured each element hasthe same "id" as the object properties in the data.js file
 - In the app.js file, created an empty filters variable to keep track of all the elements that change when a search is entered. This variable will be used to store the property “id” and the value that was entered from user input
 - Wrote code for two functions updateFilters() and filterTable()
